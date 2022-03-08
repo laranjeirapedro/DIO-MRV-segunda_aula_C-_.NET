@@ -1,0 +1,15 @@
+D:\Pedro\Cursos\DIO\mrv\aula2_C#\ExemploConstrutores\bin\Debug\net6.0\ExemploConstrutores.exe
+D:\Pedro\Cursos\DIO\mrv\aula2_C#\ExemploConstrutores\bin\Debug\net6.0\ExemploConstrutores.deps.json
+D:\Pedro\Cursos\DIO\mrv\aula2_C#\ExemploConstrutores\bin\Debug\net6.0\ExemploConstrutores.runtimeconfig.json
+D:\Pedro\Cursos\DIO\mrv\aula2_C#\ExemploConstrutores\bin\Debug\net6.0\ExemploConstrutores.dll
+D:\Pedro\Cursos\DIO\mrv\aula2_C#\ExemploConstrutores\bin\Debug\net6.0\ExemploConstrutores.pdb
+D:\Pedro\Cursos\DIO\mrv\aula2_C#\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.csproj.AssemblyReference.cache
+D:\Pedro\Cursos\DIO\mrv\aula2_C#\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pedro\Cursos\DIO\mrv\aula2_C#\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.AssemblyInfoInputs.cache
+D:\Pedro\Cursos\DIO\mrv\aula2_C#\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.AssemblyInfo.cs
+D:\Pedro\Cursos\DIO\mrv\aula2_C#\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.csproj.CoreCompileInputs.cache
+D:\Pedro\Cursos\DIO\mrv\aula2_C#\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.dll
+D:\Pedro\Cursos\DIO\mrv\aula2_C#\ExemploConstrutores\obj\Debug\net6.0\refint\ExemploConstrutores.dll
+D:\Pedro\Cursos\DIO\mrv\aula2_C#\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.pdb
+D:\Pedro\Cursos\DIO\mrv\aula2_C#\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.genruntimeconfig.cache
+D:\Pedro\Cursos\DIO\mrv\aula2_C#\ExemploConstrutores\obj\Debug\net6.0\ref\ExemploConstrutores.dll
